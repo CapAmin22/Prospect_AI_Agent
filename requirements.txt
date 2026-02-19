@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+playwright
+beautifulsoup4
+httpx
+pandas
+pydantic
+python-dotenv
+sqlalchemy
+dnspython
